@@ -1,0 +1,10 @@
+python-dotenv
+openai
+gradio
+pypdf==4.1.0
+loguru==0.7.0
+scipy==1.14.1
+azure-identity>=1.19.0
+azure-cognitiveservices-speech>=1.40.0
+tiktoken>=0.8.0
+azure-ai-documentintelligence>=1.0.0

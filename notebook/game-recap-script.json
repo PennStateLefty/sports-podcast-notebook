@@ -1,0 +1,132 @@
+[
+    {
+        "speaker": "Host (Ava)",
+        "text": "Welcome back to the SportsCenter Showdown! What a showdown we had today!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Absolutely, Ava! The Steelers and Browns always bring the heat!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "Let’s jump right into it! The Browns struck first in the first quarter!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Jameis Winston to Jerry Jeudy for a stunning 35-yard touchdown! Wow!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "What a throw! But hold on, the Browns lost CB Mike Ford Jr. to concussion protocol.",
+        "sentiment": "serious"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "That’s a tough loss! Their defense was already on shaky ground!",
+        "sentiment": "serious"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "Moving to the second quarter, Keeanu Benton made a game-changing interception!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "He picked off a screen pass meant for Nick Chubb! Talk about a momentum shift!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "And then Najee Harris punched it in for a 1-yard touchdown! Classic Steelers!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Steelers took the lead and never looked back! That’s how you play football!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "But wait, Dustin Hopkins missed a 38-yard field goal! What was he thinking?",
+        "sentiment": "cheerful"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Maybe he was trying to impress the fans in the parking lot? Just kidding!",
+        "sentiment": "cheerful"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "Third quarter rolls around, and guess what? Another missed field goal by Hopkins!",
+        "sentiment": "serious"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "He’s feeling the pressure! But Russell Wilson? He was unfazed!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "Wilson connected with Van Jefferson for a 10-yard touchdown! Boom!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "That extended the lead to 20-7! The Steelers were rolling!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "And let’s not forget Elandon Roberts stopping Jerome Ford on fourth down!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "That was a statement play! Defense wins championships, right?",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "In the fourth quarter, Wilson found Pat Freiermuth for another touchdown!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Sealing the deal! Steelers win it 27-7! What a performance!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "But injuries plagued both teams. Ogunjobi and Jackson left the game. Ouch!",
+        "sentiment": "serious"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Injuries are part of the game, but they can change everything!",
+        "sentiment": "serious"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "What’s next for both teams? The Steelers look strong heading forward!",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "And the Browns need to regroup fast! Can they bounce back?",
+        "sentiment": "exciting"
+    },
+    {
+        "speaker": "Host (Ava)",
+        "text": "That’s the million-dollar question! Thanks for tuning in, folks!",
+        "sentiment": "cheerful"
+    },
+    {
+        "speaker": "Guest (Alex)",
+        "text": "Catch us next time for more thrilling sports action! Stay tuned!",
+        "sentiment": "cheerful"
+    }
+]
